@@ -25,8 +25,11 @@ $ opens google
     "devg": "https://developers.google.com/",
     "devf": "https://developers.facebook.com/",
     "github": "https://github.com/",
+    "mdn": "https://developer.mozilla.org/en-US/",
+    "dev": 'http://devdocs.io/',
     "google": "https://www.google.com/",
     "fb": "https://wwww.facebook.com/",
+    "twitter": 'https://twitter.com/',
     "ask": "https://stackoverflow.com/",
     "translate": "https://translate.google.com.tw/",
     "medium": "https://medium.com/",
@@ -34,7 +37,14 @@ $ opens google
     "map": "https://www.google.ca/maps/",
     "mcd": "http://www.mcdonalds.com.tw/tw/ch/mdsl/mds_menu.html/",
     "twitch": "https://go.twitch.tv/",
-    "local": "http://localhost:8080"
+    "local": "http://localhost:8080",
+    "ng": 'https://angular.io/docs',
+    "react": 'https://reactjs.org/docs/hello-world.html',
+    "vue": 'https://vuejs.org/v2/guide/',
+    "underscore": 'http://underscorejs.org/',
+    "lodash": 'https://lodash.com/',
+    "ramda": 'http://ramdajs.com/'
+
 }
 ```
 
