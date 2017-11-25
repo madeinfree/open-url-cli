@@ -37,6 +37,9 @@ $ opens google
     "mcd": "http://www.mcdonalds.com.tw/tw/ch/mdsl/mds_menu.html/",
     "twitch": "https://go.twitch.tv/",
     "local": "http://localhost:8080",
+    "ng": 'https://angular.io/docs',
+    "react": 'https://reactjs.org/docs/hello-world.html',
+    "vue": 'https://vuejs.org/v2/guide/',
     "underscore": 'http://underscorejs.org/',
     "lodash": 'https://lodash.com/',
     "ramda": 'http://ramdajs.com/'
