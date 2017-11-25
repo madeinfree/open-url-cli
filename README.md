@@ -26,6 +26,7 @@ $ opens google
     "devf": "https://developers.facebook.com/",
     "github": "https://github.com/",
     "mdn": "https://developer.mozilla.org/en-US/",
+    "dev": 'http://devdocs.io/',
     "google": "https://www.google.com/",
     "fb": "https://wwww.facebook.com/",
     "twitter": 'https://twitter.com/',
